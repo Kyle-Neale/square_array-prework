@@ -8,5 +8,5 @@ def square_array(array)
 end
 
 def square_array(array)
-  squared = array.collect { |x| x*x}
+  squared = array.collect { |x| x * x}
 end
